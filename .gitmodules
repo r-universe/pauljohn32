@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kutils"]
+	path = kutils
+	url = https://github.com/cran/kutils
+	shallow = true
+	registered = true
+[submodule "rockchalk"]
+	path = rockchalk
+	url = https://github.com/cran/rockchalk
+	shallow = true
+	registered = true
+[submodule "semTable"]
+	path = semTable
+	url = https://github.com/cran/semTable
+	shallow = true
+	registered = true
+[submodule "stationery"]
+	path = stationery
+	url = https://github.com/cran/stationery
+	shallow = true
+	registered = true
