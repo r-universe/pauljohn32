@@ -8,9 +8,6 @@
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
-[submodule "semTable"]
-	path = semTable
-	url = https://github.com/cran/semTable
 [submodule "stationery"]
 	path = stationery
 	url = https://github.com/cran/stationery
