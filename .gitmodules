@@ -8,6 +8,3 @@
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
-[submodule "stationery"]
-	path = stationery
-	url = https://github.com/cran/stationery
